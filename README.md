@@ -1,5 +1,5 @@
 ## Overview
-### Here we creat a form which verify email using OTP (One Time Password)
+### Creat a form which verify email using OTP (One Time Password)
 ### ------------------------------------------------------------------------------------
 <img src="https://github.com/kr123Manish/Simple_email_verification_form/blob/main/code/1.PNG" width=45%></img>
 <img src="https://github.com/kr123Manish/Simple_email_verification_form/blob/main/code/2.PNG" width=45%></img>
@@ -13,6 +13,7 @@
 - HTML-5
 - CSS
 - PHP
+### Little discussion about main code.
 ``` php
 <?php
   // <-------------------------------------------------------------------------------------->
@@ -65,3 +66,4 @@
 ```
 
 ## <a href="http://emailverifiactionform-edu.stackstaging.com/">Click here for demo.</a>
+### For more detail download complete code from above directory...
