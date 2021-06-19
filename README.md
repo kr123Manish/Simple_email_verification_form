@@ -65,5 +65,5 @@
 ?>
 ```
 
-## <a href="http://emailverifiactionform-edu.stackstaging.com/">Click here for demo.</a>
+## <a href="http://emailverifiactionform-edu.stackstaging.com/">Click here for demo...</a>
 ### For more detail download complete code from above directory...
