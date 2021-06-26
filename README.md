@@ -66,4 +66,4 @@
 ```
 
 ## <a href="http://emailverifiactionform-edu.stackstaging.com/">Click here for demo...</a>
-### For more detail download complete code from above directory...
+### <a href="https://github.com/kr123Manish/Simple_email_verification_form/tree/main/code">For more detail download complete code from above directory...</a>
