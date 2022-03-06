@@ -1,4 +1,4 @@
-## <a href="http://emailverifiactionform-edu.stackstaging.com/">Overview</a>
+## Overview
 ### Creat a form which verify email using OTP (One Time Password)
 ### ------------------------------------------------------------------------------------
 <img src="https://github.com/kr123Manish/Simple_email_verification_form/blob/main/code/1.PNG" width=45%></img>
@@ -65,5 +65,4 @@
 ?>
 ```
 
-## <a href="http://emailverifiactionform-edu.stackstaging.com/">Click here for demo...</a>
 ### <a href="https://github.com/kr123Manish/Simple_email_verification_form/tree/main/code">For more details download complete code from above directory...</a>
